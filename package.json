@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "paginaweb",
-=======
-  "name": "vite-project",
->>>>>>> f6a757a (Primer subida pagina web)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,10 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-<<<<<<< HEAD
-=======
     "bootstrap": "^5.3.1",
->>>>>>> f6a757a (Primer subida pagina web)
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
