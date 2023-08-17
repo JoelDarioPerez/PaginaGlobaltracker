@@ -5,6 +5,7 @@ import Franja from "./seccionTecnologia";
 import Optimiza from "./optimiza";
 import Usos from "./usos";
 import Informacion from "./informacion";
+import Aplicaciones from "./aplicaciones";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Optimiza />
       <Usos />
       <Informacion />
+      <Aplicaciones />
     </>
   );
 }

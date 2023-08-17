@@ -1,7 +1,7 @@
 const Funcionalidades = () => {
   return (
     <>
-      <div className="container">
+      <div className="container my-5">
         <div>
           <div className="row ">
             <div className="col-2 mt-5 mb-5">

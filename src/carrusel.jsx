@@ -1,6 +1,6 @@
 const Carousel = () => {
   return (
-    <div className="my-0 d-flex-container ">
+    <div className="container w-100 container-fluid">
       <div
         id="carouselExampleSlidesOnly"
         className="carousel slide"
