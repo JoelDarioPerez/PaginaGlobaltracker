@@ -2,9 +2,9 @@ const Funcionalidades = () => {
   return (
     <>
       <div className="container">
-        <div className="bg-danger">
+        <div>
           <div className="row ">
-            <div className="col-3 mt-5 mb-5">
+            <div className="col-2 mt-5 mb-5">
               <svg
                 version="1.1"
                 xmlns="http://www.w3.org/2000/svg"
@@ -22,7 +22,7 @@ const Funcionalidades = () => {
                 unidades en todo momento y en todo lugar
               </p>
             </div>
-            <div className="col-3 border-left mt-5 mb-5">
+            <div className="col-2 border-left mt-5 mb-5">
               <svg
                 version="1.1"
                 xmlns="http://www.w3.org/2000/svg"
@@ -40,7 +40,7 @@ const Funcionalidades = () => {
                 conectividad
               </p>
             </div>
-            <div className="col-3 border-left mt-5 mb-5">
+            <div className="col-2 border-left mt-5 mb-5">
               <svg
                 version="1.1"
                 xmlns="http://www.w3.org/2000/svg"
@@ -58,7 +58,7 @@ const Funcionalidades = () => {
                 acorde a tus necesidades
               </p>
             </div>
-            <div className="col-3 mt-5 mb-5">
+            <div className="col-2 mt-5 mb-5">
               <svg
                 version="1.1"
                 xmlns="http://www.w3.org/2000/svg"

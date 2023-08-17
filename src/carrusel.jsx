@@ -1,6 +1,4 @@
-import React from "react";
-
-const Carousel = function Carousel() {
+const Carousel = () => {
   return (
     <div className="my-0 d-flex-container ">
       <div
@@ -12,12 +10,16 @@ const Carousel = function Carousel() {
           <div className="carousel-item active">
             <img
               className="img-fluid"
-              src="https://cdn.fansshare.com/pictures/wallpapers1600x900/wallpapers-fondo-de-pantalla-hd-alta-calidad-plus-dizorb-hd-wallpaper-33030152.jpg"
+              src="http://globaltracker.com.ar/wp-content/uploads/2021/03/cropped-volvo-benefits-crawler-excavator-ec350d-t2-customer-support-agreements-2324x1200-1.jpg"
               alt="First slide"
             />
           </div>
-          <div className="https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2021/05/atomo-imagen-alta-resolucion-foto-real.jpg">
-            <img className="img-fluid" src="./img1.jpg" alt="Second slide" />
+          <div className="carousel-item">
+            <img
+              className="img-fluid"
+              src="http://globaltracker.com.ar/wp-content/uploads/2021/03/cropped-Agriculture-Stock-Photos-and-Commercial-Photographer-by-Todd-Klassy-Photography-Agriculture-Photos.jpg"
+              alt="Second slide"
+            />
           </div>
           <div className="carousel-item">
             <img

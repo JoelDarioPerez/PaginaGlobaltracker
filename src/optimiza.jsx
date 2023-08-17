@@ -1,10 +1,8 @@
-import React from "react";
-
 const Optimiza = () => {
   return (
     <div>
       <div className="container-fluid bg-success">
-        <div className="row">
+        <div className="row my-5">
           <div className="col-md-6 d-flex flex-column justify-content-start my-5">
             <h3>COMO PODEMOS AYUDARTE?</h3>
             <h2>MEJORÁ EL RENDIMIENTO DE TU FLOTA</h2>
