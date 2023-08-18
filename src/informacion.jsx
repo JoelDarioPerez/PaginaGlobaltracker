@@ -1,6 +1,6 @@
 const Informacion = () => {
   return (
-    <div className="container my-5 bg-warning">
+    <div className="container bg-warning">
       <div className="row">
         <div className="col-md-6 d-flex align-items-center">
           <div className="d-flex flex-column justify-content-start">

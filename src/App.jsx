@@ -6,6 +6,8 @@ import Optimiza from "./optimiza";
 import Usos from "./usos";
 import Informacion from "./informacion";
 import Aplicaciones from "./aplicaciones";
+import Clientes from "./clientes";
+import Contacto from "./contacto";
 
 function App() {
   return (
@@ -17,6 +19,8 @@ function App() {
       <Usos />
       <Informacion />
       <Aplicaciones />
+      <Clientes />
+      <Contacto />
     </>
   );
 }
