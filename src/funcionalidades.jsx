@@ -1,9 +1,12 @@
 const Funcionalidades = () => {
   return (
     <>
-      <div className="container my-5">
+      <div
+        className="container mt-4
+      mb-4"
+      >
         <div>
-          <div className="row ">
+          <div className="row mb-5">
             <div className="col-2 mt-5 mb-5">
               <svg
                 version="1.1"

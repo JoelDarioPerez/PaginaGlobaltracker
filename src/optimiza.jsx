@@ -1,9 +1,14 @@
 const Optimiza = () => {
   return (
     <div>
-      <div className="container-fluid bg-success">
+      <div
+        className="container-fluid"
+        style={{ background: "rgb(230,230,230)" }}
+      >
         <div className="row my-5">
-          <div className="col-md-6 d-flex flex-column justify-content-start my-5">
+          <div className="col-md-6 d-flex flex-column justify-content-center align-items-center my-5">
+            {" "}
+            {/* Alineación vertical y horizontal */}
             <h3>COMO PODEMOS AYUDARTE?</h3>
             <h2>MEJORÁ EL RENDIMIENTO DE TU FLOTA</h2>
             <p>

@@ -1,6 +1,6 @@
 const Aplicaciones = () => {
   return (
-    <div className="container-fluid bg-info">
+    <div className="container-fluid">
       <div className="row p-5">
         <div className="col-md-6 d-flex justify-content-center align-items-center">
           <img
