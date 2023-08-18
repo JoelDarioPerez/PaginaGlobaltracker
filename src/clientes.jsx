@@ -1,9 +1,7 @@
-import React from "react";
-
 const Clientes = () => {
   return (
-    <div className="container">
-      <div className="container text-center mb-4">
+    <div className="container-fluid">
+      <div className="container text-center mb-4 mx-5">
         <h2>Clientes</h2>
         <h3>Ellos confían en nosotros</h3>
       </div>

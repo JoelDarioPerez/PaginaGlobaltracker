@@ -1,7 +1,7 @@
 const Navbar = function Navbar() {
   return (
-    <div className="fixed-top">
-      <nav className="navbar navbar-expand-lg navbar-light shadow">
+    <div className="fixed-top bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light">
         <div className="container-fluid d-flex flex-row-reverse">
           <ul className="navbar-nav">
             <ul className="navbar-nav">

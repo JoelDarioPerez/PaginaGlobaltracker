@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./navbar";
 import Carousel from "./carrusel";
-import Franja from "./seccionTecnologia";
+import Funcionalidades from "./funcionalidades";
 import Optimiza from "./optimiza";
 import Usos from "./usos";
 import Informacion from "./informacion";
@@ -12,9 +12,9 @@ import Contacto from "./contacto";
 function App() {
   return (
     <>
-      <Navbar /> {/* Movemos el Navbar fuera del contenedor d-flex */}
+      <Navbar />
       <Carousel />
-      <Franja />
+      <Funcionalidades />
       <Optimiza />
       <Usos />
       <Informacion />

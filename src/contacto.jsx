@@ -1,6 +1,7 @@
-import React from "react";
-
 const Contacto = () => {
+  const iconStyle = { fontSize: "2rem" };
+  const textStyle = { fontSize: "1.25rem" };
+
   return (
     <div className="container-fluid " style={{ background: "#c1bfbf" }}>
       <div className="row">
@@ -8,10 +9,14 @@ const Contacto = () => {
           <h3>COMUNICATE CON NOSOTROS</h3>
           <h2>Contactanos</h2>
           <p>
-            <a href="tel:2612510987">261-2510987</a>
+            <i className="fa-brands fa-whatsapp" style={iconStyle}></i>
+            <p href="tel:2612510987" style={textStyle}>
+              261-2510987
+            </p>
           </p>
           <p>
-            <a href="mailto:contacto@globaltracker.com.ar">
+            <i className="fa-solid fa-envelope" style={iconStyle}></i>{" "}
+            <a href="mailto:contacto@globaltracker.com.ar" style={textStyle}>
               contacto@globaltracker.com.ar
             </a>
           </p>
